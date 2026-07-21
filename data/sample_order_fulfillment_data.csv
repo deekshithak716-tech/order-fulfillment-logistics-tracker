@@ -1,0 +1,21 @@
+order_id,order_date,warehouse,carrier,customer_type,promised_delivery_days,expected_delivery_date,actual_delivery_date,cycle_time_days,delay_days,shortage_flag,backorder_flag,status
+ORD-10000,2025-03-22,DC-East,Regional LTL Co.,Direct-to-Consumer,7,2025-03-29,2025-04-01,10,3,0,0,Delivered On Time
+ORD-10001,2025-03-24,DC-Central,Regional LTL Co.,Dealer,10,2025-04-03,2025-04-13,20,10,0,1,Backordered
+ORD-10002,2025-03-19,DC-West,Regional LTL Co.,Direct-to-Consumer,3,2025-03-22,2025-03-22,3,0,0,0,Delivered On Time
+ORD-10003,2025-04-26,DC-West,XPO Logistics,Dealer,2,2025-04-28,2025-04-30,4,2,0,0,Delivered On Time
+ORD-10004,2025-03-20,DC-East,XPO Logistics,Distributor,2,2025-03-22,2025-03-22,2,0,0,1,Backordered
+ORD-10005,2025-05-02,DC-East,FedEx Freight,Dealer,3,2025-05-05,2025-05-05,3,0,0,0,Delivered On Time
+ORD-10006,2025-03-27,DC-Central,UPS Ground,Distributor,10,2025-04-06,2025-04-06,10,0,0,0,Delivered On Time
+ORD-10007,2025-06-27,DC-Central,Regional LTL Co.,Distributor,3,2025-06-30,2025-07-10,13,10,0,0,Delivered Late
+ORD-10008,2025-05-02,DC-West,Regional LTL Co.,Dealer,7,2025-05-09,2025-05-10,8,1,1,1,Backordered
+ORD-10009,2025-05-02,DC-West,XPO Logistics,Direct-to-Consumer,2,2025-05-04,2025-05-14,12,10,0,0,Delivered Late
+ORD-10010,2025-05-19,DC-Central,XPO Logistics,Direct-to-Consumer,2,2025-05-21,2025-05-21,2,0,0,0,Delivered On Time
+ORD-10011,2025-06-28,DC-East,Regional LTL Co.,Distributor,5,2025-07-03,2025-07-03,5,0,0,1,Backordered
+ORD-10012,2025-03-21,DC-Central,UPS Ground,Direct-to-Consumer,2,2025-03-23,2025-04-02,12,10,0,0,Delivered Late
+ORD-10013,2025-05-15,DC-East,UPS Ground,Dealer,2,2025-05-17,2025-05-19,4,2,0,0,Delivered On Time
+ORD-10014,2025-05-11,DC-Central,FedEx Freight,Distributor,2,2025-05-13,2025-05-19,8,6,0,0,Delivered Late
+ORD-10015,2025-03-07,DC-Central,FedEx Freight,Distributor,5,2025-03-12,2025-03-13,6,1,1,0,Partial Shipment
+ORD-10016,2025-05-22,DC-Central,UPS Ground,Direct-to-Consumer,3,2025-05-25,2025-05-25,3,0,0,0,Delivered On Time
+ORD-10017,2025-05-07,DC-Central,UPS Ground,Distributor,7,2025-05-14,2025-05-14,7,0,0,0,Delivered On Time
+ORD-10018,2025-05-16,DC-Central,UPS Ground,Direct-to-Consumer,7,2025-05-23,2025-05-29,13,6,0,0,Delivered Late
+ORD-10019,2025-05-15,DC-West,UPS Ground,Direct-to-Consumer,5,2025-05-20,2025-05-20,5,0,0,1,Backordered
